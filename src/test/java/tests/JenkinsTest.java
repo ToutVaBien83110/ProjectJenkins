@@ -50,20 +50,10 @@ public class JenkinsTest {
 		assertTrue(true);
 	}
 
-	@Test
-	void Test12(){
-		assertTrue(true);
-	}
+	// degisiklik icin sildim
 
-	@Test
-	void Test13(){
-		assertTrue(true);
-	}
 
-	@Test
-	void Test14(){
-		assertTrue(false);
-	}
+
 
 
 
